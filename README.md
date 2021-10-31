@@ -8,3 +8,10 @@ I'm Rafi, Software Engineer(Backend) at Barikoi Technologies Limited. Thanks for
 	<a href="https://www.linkedin.com/in/rafiqul-islam-a73886135"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://stackoverflow.com/users/9631747/rafiqul-islam"><img src="https://img.shields.io/stackexchange/stackoverflow/r/1061236?logo=stack-overflow&style=social" alt="StackOverflow"></a>
 </p>
+
+
+
+![Rafi's github stats](https://github-readme-stats.vercel.app/api?username=rafi138&show_icons=true)
+
+
+### Show some ❤️ by starring some of the repositories!

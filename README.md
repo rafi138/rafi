@@ -1,5 +1,5 @@
 ## Hi there!
-I'm Rafi, Software Engineer at Barikoi Technologies Limited B.Sc.  degree in computer science.
+I'm Rafi, Software Engineer(Backend) at Barikoi Technologies Limited. Thanks for visiting and I'd love to connect!
 
 
 <p align="center">

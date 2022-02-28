@@ -1,4 +1,4 @@
-# Hi I'm Rafi 👋
+# Hi 👋
 Welcome to my profile! Currently i'm working at [Barikoi Technologies Limited](https://barikoi.com/) as a Software Engineer(Backend). Thanks for visiting and I'd love to connect!
 <!--Website -->
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://twitter.com/rafiqul_abprs)
